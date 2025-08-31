@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @supritpal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Supritpal  
 
-<!---
-supritpal/supritpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate **Front end Developer | AI Enthusiast | Problem Solver**  
+
+---
+
+### 👀 About Me  
+- 🌱 I’m currently learning **Backend Development | Data Science**  
+- 🤝 I’m looking to collaborate on **AI + Web Dev projects**  
+- 💡 Interested in **Open Source, Startups & Innovative Ideas**  
+
+---
+
+### 📫 How to reach me  
+- 📧 Email: [palsuprit1409@gmail.com](mailto:palsuprit1409@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/supritpal](https://linkedin.com/in/supritpal)  
+- 🐙 GitHub: [github.com/supritpal](https://github.com/supritpal)  
+
+---
+
+### 😄 Pronouns  
+He / Him  
+
+---
+
+### ⚡ Fun fact  
+I love debugging more than coding 😅 (because every bug teaches something new 🚀).  
+
+---
+
+⭐ From [supritpal](https://github.com/supritpal)
