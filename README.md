@@ -13,7 +13,13 @@
 
 ### 📫 How to reach me  
 - 📧 Email: [palsuprit1409@gmail.com](mailto:palsuprit1409@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/supritpal](https://linkedin.com/in/supritpal)  
+- 💼 LinkedIn: [www.linkedin.com/in/
+suprit-pal
+Vanity URL name
+](www.linkedin.com/in/
+suprit-pal
+Vanity URL name
+)  
 - 🐙 GitHub: [github.com/supritpal](https://github.com/supritpal)  
 
 ---
