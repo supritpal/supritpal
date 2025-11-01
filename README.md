@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Supritpal  
 
-💻 Passionate **Front end Developer | AI Enthusiast | Problem Solver**  
+💻 Passionate **Full Stack Developer | AI Enthusiast | Problem Solver**  
 
 ---
 
 ### 👀 About Me  
-- 🌱 I’m currently learning **Backend Development | Data Science**  
+- 🌱 I’m currently learning **Data Science**  
 - 🤝 I’m looking to collaborate on **AI + Web Dev projects**  
 - 💡 Interested in **Open Source, Startups & Innovative Ideas**  
 
