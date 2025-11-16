@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Supritpal  
+# 👋 Hi, I'm Suprit  
 
 💻 Passionate **Full Stack Developer | AI Enthusiast | Problem Solver**  
 
