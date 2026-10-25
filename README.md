@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Suprit  
+#  Hi, I'm Suprit  
 
-💻 Passionate **Full Stack Developer | AI Enthusiast | Problem Solver**  
+ Passionate **Full Stack Developer | AI Enthusiast | Problem Solver**  
 
 ---
 
 ### 👀 About Me  
-- 🌱 I’m currently learning **Data Science**  
-- 🤝 I’m looking to collaborate on **AI + Web Dev projects**  
-- 💡 Interested in **Open Source, Startups & Innovative Ideas**  
+-  I’m currently learning **Data Science**  
+-  I’m looking to collaborate on **AI + Web Dev projects**  
+-  Interested in **Open Source, Startups & Innovative Ideas**  
 
 ---
 
 ### 📫 How to reach me  
-- 📧 Email: [palsuprit1409@gmail.com](mailto:palsuprit1409@gmail.com)  
-- 💼 LinkedIn: [www.linkedin.com/in/suprit-pal/](https://www.linkedin.com/in/suprit-pal/)
-- 🐙 GitHub: [github.com/supritpal](https://github.com/supritpal)  
+-  Email: [palsuprit1409@gmail.com](mailto:palsuprit1409@gmail.com)  
+-  LinkedIn: [www.linkedin.com/in/suprit-pal/](https://www.linkedin.com/in/suprit-pal/)
+-  GitHub: [github.com/supritpal](https://github.com/supritpal)  
 
 ---
 
-### 😄 Pronouns  
+###  Pronouns  
 He / Him  
 
 ---
@@ -28,4 +28,4 @@ I love debugging more than coding 😅 (because every bug teaches something new 
 
 ---
 
-⭐ From [supritpal](https://github.com/supritpal)
+ From [supritpal](https://github.com/supritpal)
